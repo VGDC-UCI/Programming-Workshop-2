@@ -6,3 +6,5 @@ Hello, VGDC Programmers! Before the workshop, please clone this repo:
 
 Or download a zip file  
 * Clone or Download -> Download ZIP
+
+Make sure you have [Unity](https://unity3d.com/get-unity/download) on version 2019.2.8f1 or later.
